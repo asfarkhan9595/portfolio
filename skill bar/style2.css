@@ -33,6 +33,9 @@ h3 {
     /* background-color: aquamarine; */
     display: flex;
 }
+.skill{
+    background: rgb(186, 186, 186);
+}
 .skills {
     
     background: #333;
